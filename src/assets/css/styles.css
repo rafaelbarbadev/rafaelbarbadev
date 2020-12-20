@@ -1,0 +1,49 @@
+.main-title {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-title__text{
+  text-align: left;
+  line-height: 133%;
+  font-weight: 900;
+}
+
+.main-title__text--highlight {
+  color: #ffdb58;
+}
+
+.main-title__photo {
+  max-height: 100vh;
+}
+
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+.footer {
+  width: 100%;
+  padding: 1rem 3rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: left;
+  align-items: center;
+}

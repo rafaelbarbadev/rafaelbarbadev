@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Rafael,
+I'm 27 years old. I work for 9 years as a systems analyst and I love technological innovations since I was a child.
+Currently working as a senior outsourced analyst at the Rio de Janeiro Court of Justice.
+#### Dev, guitarist, virtual drift driver and Power Ranger in his spare time.
+---
+<a href="https://dev.to/rafaelbarbadev">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rafael Oliveira's DEV Profile" height="30" width="30">
+</a>
 
 <!--
 **rafaelbarbadev/rafaelbarbadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
