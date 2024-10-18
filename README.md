@@ -1,5 +1,5 @@
 ### Hi, I'm Rafael,
-I'm 30 years old. I work for 12 years as a systems analyst and I love technological innovations since I was a child.
+I'm 31 years old. I work for 13 years as a systems analyst and I love technological innovations since I was a child.
 Currently working as a Senior analyst at Rio de Janeiro.
 #### // Dev, gamer, guitarist, and Power Ranger in his spare time.
 ---
