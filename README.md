@@ -1,6 +1,6 @@
 ### Hi, I'm Rafael,
-I'm 31 years old. I work for 13 years as a systems analyst and I love technological innovations since I was a child.
-Currently working as a Senior analyst at Rio de Janeiro.
+I'm 32 years old. I work for 15 years as a Fullstack Software Developer and I love technological innovations since I was a child.
+
 #### // Dev, gamer, guitarist, and Power Ranger in his spare time.
 ---
 <a href="https://dev.to/rafaelbarbadev">
